@@ -1,0 +1,26 @@
+.filterContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.colorFilter {
+  margin-bottom: 20px;
+}
+
+.colorList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.colorList li {
+  margin-bottom: 5px;
+}
+
+.priceFilter {
+  margin-top: 20px;
+}
+
+h3 {
+  margin-bottom: 10px;
+}
